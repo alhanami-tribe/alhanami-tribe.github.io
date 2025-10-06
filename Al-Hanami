@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>قبيلة الحَنَم الدواسر</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+    body {
+      font-family: 'Cairo', sans-serif;
+      margin: 0;
+      background: linear-gradient(135deg, #fdf3f0 0%, #fffefb 100%);
+      color: #222;
+      line-height: 1.8;
+    }
+    header {
+      background: linear-gradient(90deg, #ff6f61, #ffb347);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.1rem;
+      margin-top: 10px;
+    }
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 4px 25px rgba(0,0,0,0.08);
+    }
+    h2 {
+      color: #ff6f61;
+      border-right: 5px solid #ffb347;
+      padding-right: 10px;
+      margin-top: 40px;
+      font-size: 1.5rem;
+    }
+    p {
+      font-size: 1.05rem;
+      margin-top: 10px;
+      text-align: justify;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #fff5f2;
+      color: #444;
+      font-size: 0.9rem;
+    }
+    footer a {
+      color: #ff6f61;
+      text-decoration: none;
+      margin: 0 5px;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>قبيلة الحَنَم الدواسر</h1>
+    <p>من القبائل العربية الأصيلة التي تمتد جذورها في عمق التاريخ، وترتبط نسبًا بقبيلة الدواسر العريقة.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>نبذة عن القبيلة</h2>
+      <p>
+        قبيلة الحَنَم هي فرع من فروع قبائل <strong>الدواسر</strong>، وتُعد من القبائل العربية المعروفة بعراقتها وأصالتها. 
+        تستوطن القبيلة مناطق متعددة في الجزيرة العربية واليمن، وتُذكر في المصادر القبلية ضمن بطون الدواسر الكرام.
+      </p>
+    </section>
+
+    <section>
+      <h2>النسب والأصل</h2>
+      <p>
+        ينتسب الحَنَم إلى قبيلة الدواسر، التي تعود في أصولها إلى التحالف الشهير بين <strong>آل زايد</strong> من الأزد و<strong>تغلب الوائلية</strong> من ربيعة.
+        وقد تشكّلت القبيلة من هذا التحالف لتصبح من أبرز قبائل العرب في نجد والجزيرة.
+      </p>
+      <p>
+        يُقال إن آل حَنَم من بطون الدواسر الذين سكنوا مناطق في <strong>شبوة – جردان</strong> جنوب الجزيرة العربية،
+        ولهم تاريخ في البادية والقرى المحيطة، وارتبطوا بعلاقات قربى ونسب مع بطون وأفخاذ أخرى من الدواسر.
+      </p>
+    </section>
+
+    <section>
+      <h2>التاريخ والمكان</h2>
+      <p>
+        استقرت قبيلة الحَنَم في مناطق من <strong>اليمن (شبوة)</strong> وفي أطراف <strong>وادي الدواسر</strong>،
+        وكان لهم حضور في الحياة القبلية والاجتماعية والاقتصادية على مدى قرون.
+        وقد عُرف أبناؤها بالكرم والشجاعة والتمسك بالعادات العربية الأصيلة.
+      </p>
+    </section>
+
+    <section>
+      <h2>قيم القبيلة وأعلامها</h2>
+      <p>
+        عُرف رجال القبيلة بالشهامة والوفاء، وساهم العديد من أبنائها في الدفاع عن أوطانهم وخدمة مجتمعهم في مجالات متعددة.
+        وتفخر القبيلة بتاريخها وأصولها الممتدة من الدواسر الذين اشتهروا بالقيادة والعلم والمروءة.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 جميع الحقوق محفوظة | قبيلة الحَنَم الدواسر</p>
+    <p>
+      تواصل معنا عبر البريد:
+      <a href="mailto:info@alhanami-tribe.com">info@alhanami-tribe.com</a>
+    </p>
+  </footer>
+</body>
+</html>
